@@ -1,0 +1,213 @@
+Added Component: Designator=3.3V(lm2596)
+Added Component: Designator=5V(lm2596)
+Added Component: Designator=20(jp20)
+Added Component: Designator=21(jp20)
+Added Component: Designator=CB t?(JP2)
+Add component (AddParameter): Name = "Value"; Value = "JP 2"; VariantName = "[No Variations]"
+Added Component: Designator=DS1307(DS1307)
+Added Component: Designator=esp32c3(esp32c3)
+Added Component: Designator=IN 12V(jp4)
+Added Component: Designator=JDC(DC-IN)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=Keypad(JP8)
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Component: Designator=LED(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=module buzzer(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=OLED(oled 0.96)
+Added Component: Designator=OUT 3.3(JP8)
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Component: Designator=OUT5(JP8)
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Component: Designator=relay(relay)
+Added Component: Designator=stm32f103c8t6(stm32f103c8t6)
+Added Component: Designator=Vân tay(jp4)
+Added Pin To Net: NetName=Net3.3V_IN+ Pin=3.3V-IN+
+Added Pin To Net: NetName=Net3.3V_IN+ Pin=5V-IN+
+Added Pin To Net: NetName=Net3.3V_IN+ Pin=IN 12V-1
+Added Pin To Net: NetName=Net3.3V_IN+ Pin=IN 12V-2
+Added Pin To Net: NetName=Net3.3V_IN+ Pin=JDC-1
+Added Net: Name=Net3.3V_IN+
+Added Pin To Net: NetName=Net3.3V_IN- Pin=3.3V-IN-
+Added Pin To Net: NetName=Net3.3V_IN- Pin=5V-IN-
+Added Pin To Net: NetName=Net3.3V_IN- Pin=IN 12V-3
+Added Pin To Net: NetName=Net3.3V_IN- Pin=IN 12V-4
+Added Pin To Net: NetName=Net3.3V_IN- Pin=JDC-2
+Added Net: Name=Net3.3V_IN-
+Added Pin To Net: NetName=Net3.3V_OUT+ Pin=3.3V-OUT+
+Added Pin To Net: NetName=Net3.3V_OUT+ Pin=OUT 3.3-1
+Added Pin To Net: NetName=Net3.3V_OUT+ Pin=OUT 3.3-2
+Added Pin To Net: NetName=Net3.3V_OUT+ Pin=OUT 3.3-3
+Added Pin To Net: NetName=Net3.3V_OUT+ Pin=OUT 3.3-4
+Added Net: Name=Net3.3V_OUT+
+Added Pin To Net: NetName=Net3.3V_OUT- Pin=3.3V-OUT-
+Added Pin To Net: NetName=Net3.3V_OUT- Pin=OUT 3.3-5
+Added Pin To Net: NetName=Net3.3V_OUT- Pin=OUT 3.3-6
+Added Pin To Net: NetName=Net3.3V_OUT- Pin=OUT 3.3-7
+Added Pin To Net: NetName=Net3.3V_OUT- Pin=OUT 3.3-8
+Added Net: Name=Net3.3V_OUT-
+Added Pin To Net: NetName=Net5V_OUT+ Pin=5V-OUT+
+Added Pin To Net: NetName=Net5V_OUT+ Pin=OUT5-1
+Added Pin To Net: NetName=Net5V_OUT+ Pin=OUT5-2
+Added Pin To Net: NetName=Net5V_OUT+ Pin=OUT5-3
+Added Pin To Net: NetName=Net5V_OUT+ Pin=OUT5-4
+Added Net: Name=Net5V_OUT+
+Added Pin To Net: NetName=Net5V_OUT- Pin=5V-OUT-
+Added Pin To Net: NetName=Net5V_OUT- Pin=OUT5-5
+Added Pin To Net: NetName=Net5V_OUT- Pin=OUT5-6
+Added Pin To Net: NetName=Net5V_OUT- Pin=OUT5-7
+Added Pin To Net: NetName=Net5V_OUT- Pin=OUT5-8
+Added Net: Name=Net5V_OUT-
+Added Pin To Net: NetName=Net20_1 Pin=20-1
+Added Pin To Net: NetName=Net20_1 Pin=DS1307-VCC
+Added Pin To Net: NetName=Net20_1 Pin=LED-1
+Added Pin To Net: NetName=Net20_1 Pin=module buzzer-1
+Added Pin To Net: NetName=Net20_1 Pin=OLED-VCC
+Added Pin To Net: NetName=Net20_1 Pin=stm32f103c8t6-20
+Added Pin To Net: NetName=Net20_1 Pin=Vân tay-1
+Added Net: Name=Net20_1
+Added Pin To Net: NetName=Net20_2 Pin=20-2
+Added Pin To Net: NetName=Net20_2 Pin=CB t?-1
+Added Pin To Net: NetName=Net20_2 Pin=module buzzer-3
+Added Pin To Net: NetName=Net20_2 Pin=stm32f103c8t6-19
+Added Pin To Net: NetName=Net20_2 Pin=Vân tay-2
+Added Net: Name=Net20_2
+Added Pin To Net: NetName=Net20_3 Pin=20-3
+Added Pin To Net: NetName=Net20_3 Pin=stm32f103c8t6-18
+Added Net: Name=Net20_3
+Added Pin To Net: NetName=Net20_4 Pin=20-4
+Added Pin To Net: NetName=Net20_4 Pin=stm32f103c8t6-17
+Added Net: Name=Net20_4
+Added Pin To Net: NetName=Net20_5 Pin=20-5
+Added Pin To Net: NetName=Net20_5 Pin=stm32f103c8t6-16
+Added Net: Name=Net20_5
+Added Pin To Net: NetName=Net20_6 Pin=20-6
+Added Pin To Net: NetName=Net20_6 Pin=DS1307-SDA
+Added Pin To Net: NetName=Net20_6 Pin=OLED-SDA
+Added Pin To Net: NetName=Net20_6 Pin=stm32f103c8t6-15
+Added Net: Name=Net20_6
+Added Pin To Net: NetName=Net20_7 Pin=20-7
+Added Pin To Net: NetName=Net20_7 Pin=DS1307-SCL
+Added Pin To Net: NetName=Net20_7 Pin=OLED-SCL
+Added Pin To Net: NetName=Net20_7 Pin=stm32f103c8t6-14
+Added Net: Name=Net20_7
+Added Pin To Net: NetName=Net20_8 Pin=20-8
+Added Pin To Net: NetName=Net20_8 Pin=stm32f103c8t6-13
+Added Net: Name=Net20_8
+Added Pin To Net: NetName=Net20_9 Pin=20-9
+Added Pin To Net: NetName=Net20_9 Pin=stm32f103c8t6-12
+Added Net: Name=Net20_9
+Added Pin To Net: NetName=Net20_10 Pin=20-10
+Added Pin To Net: NetName=Net20_10 Pin=stm32f103c8t6-11
+Added Net: Name=Net20_10
+Added Pin To Net: NetName=Net20_11 Pin=20-11
+Added Pin To Net: NetName=Net20_11 Pin=stm32f103c8t6-10
+Added Net: Name=Net20_11
+Added Pin To Net: NetName=Net20_12 Pin=20-12
+Added Pin To Net: NetName=Net20_12 Pin=stm32f103c8t6-9
+Added Net: Name=Net20_12
+Added Pin To Net: NetName=Net20_13 Pin=20-13
+Added Pin To Net: NetName=Net20_13 Pin=stm32f103c8t6-8
+Added Net: Name=Net20_13
+Added Pin To Net: NetName=Net20_14 Pin=20-14
+Added Pin To Net: NetName=Net20_14 Pin=stm32f103c8t6-7
+Added Pin To Net: NetName=Net20_14 Pin=Vân tay-3
+Added Net: Name=Net20_14
+Added Pin To Net: NetName=Net20_15 Pin=20-15
+Added Pin To Net: NetName=Net20_15 Pin=stm32f103c8t6-6
+Added Pin To Net: NetName=Net20_15 Pin=Vân tay-4
+Added Net: Name=Net20_15
+Added Pin To Net: NetName=Net20_16 Pin=20-16
+Added Pin To Net: NetName=Net20_16 Pin=stm32f103c8t6-5
+Added Net: Name=Net20_16
+Added Pin To Net: NetName=Net20_17 Pin=20-17
+Added Pin To Net: NetName=Net20_17 Pin=module buzzer-2
+Added Pin To Net: NetName=Net20_17 Pin=stm32f103c8t6-4
+Added Net: Name=Net20_17
+Added Pin To Net: NetName=Net20_18 Pin=20-18
+Added Pin To Net: NetName=Net20_18 Pin=LED-2
+Added Pin To Net: NetName=Net20_18 Pin=stm32f103c8t6-3
+Added Net: Name=Net20_18
+Added Pin To Net: NetName=Net20_19 Pin=20-19
+Added Pin To Net: NetName=Net20_19 Pin=LED-3
+Added Pin To Net: NetName=Net20_19 Pin=stm32f103c8t6-2
+Added Net: Name=Net20_19
+Added Pin To Net: NetName=Net20_20 Pin=20-20
+Added Pin To Net: NetName=Net20_20 Pin=CB t?-2
+Added Pin To Net: NetName=Net20_20 Pin=stm32f103c8t6-1
+Added Net: Name=Net20_20
+Added Pin To Net: NetName=Net21_1 Pin=21-1
+Added Pin To Net: NetName=Net21_1 Pin=stm32f103c8t6-40
+Added Net: Name=Net21_1
+Added Pin To Net: NetName=Net21_2 Pin=21-2
+Added Pin To Net: NetName=Net21_2 Pin=stm32f103c8t6-39
+Added Net: Name=Net21_2
+Added Pin To Net: NetName=Net21_3 Pin=21-3
+Added Pin To Net: NetName=Net21_3 Pin=stm32f103c8t6-38
+Added Net: Name=Net21_3
+Added Pin To Net: NetName=Net21_4 Pin=21-4
+Added Pin To Net: NetName=Net21_4 Pin=stm32f103c8t6-37
+Added Net: Name=Net21_4
+Added Pin To Net: NetName=Net21_5 Pin=21-5
+Added Pin To Net: NetName=Net21_5 Pin=esp32c3-8
+Added Pin To Net: NetName=Net21_5 Pin=stm32f103c8t6-36
+Added Net: Name=Net21_5
+Added Pin To Net: NetName=Net21_6 Pin=21-6
+Added Pin To Net: NetName=Net21_6 Pin=esp32c3-7
+Added Pin To Net: NetName=Net21_6 Pin=stm32f103c8t6-35
+Added Net: Name=Net21_6
+Added Pin To Net: NetName=Net21_7 Pin=21-7
+Added Pin To Net: NetName=Net21_7 Pin=stm32f103c8t6-34
+Added Net: Name=Net21_7
+Added Pin To Net: NetName=Net21_8 Pin=21-8
+Added Pin To Net: NetName=Net21_8 Pin=Keypad-1
+Added Pin To Net: NetName=Net21_8 Pin=stm32f103c8t6-33
+Added Net: Name=Net21_8
+Added Pin To Net: NetName=Net21_9 Pin=21-9
+Added Pin To Net: NetName=Net21_9 Pin=Keypad-2
+Added Pin To Net: NetName=Net21_9 Pin=stm32f103c8t6-32
+Added Net: Name=Net21_9
+Added Pin To Net: NetName=Net21_10 Pin=21-10
+Added Pin To Net: NetName=Net21_10 Pin=Keypad-3
+Added Pin To Net: NetName=Net21_10 Pin=stm32f103c8t6-31
+Added Net: Name=Net21_10
+Added Pin To Net: NetName=Net21_11 Pin=21-11
+Added Pin To Net: NetName=Net21_11 Pin=Keypad-4
+Added Pin To Net: NetName=Net21_11 Pin=stm32f103c8t6-30
+Added Net: Name=Net21_11
+Added Pin To Net: NetName=Net21_12 Pin=21-12
+Added Pin To Net: NetName=Net21_12 Pin=Keypad-5
+Added Pin To Net: NetName=Net21_12 Pin=stm32f103c8t6-29
+Added Net: Name=Net21_12
+Added Pin To Net: NetName=Net21_13 Pin=21-13
+Added Pin To Net: NetName=Net21_13 Pin=Keypad-6
+Added Pin To Net: NetName=Net21_13 Pin=stm32f103c8t6-28
+Added Net: Name=Net21_13
+Added Pin To Net: NetName=Net21_14 Pin=21-14
+Added Pin To Net: NetName=Net21_14 Pin=Keypad-7
+Added Pin To Net: NetName=Net21_14 Pin=stm32f103c8t6-27
+Added Net: Name=Net21_14
+Added Pin To Net: NetName=Net21_15 Pin=21-15
+Added Pin To Net: NetName=Net21_15 Pin=Keypad-8
+Added Pin To Net: NetName=Net21_15 Pin=stm32f103c8t6-26
+Added Net: Name=Net21_15
+Added Pin To Net: NetName=Net21_16 Pin=21-16
+Added Pin To Net: NetName=Net21_16 Pin=stm32f103c8t6-25
+Added Net: Name=Net21_16
+Added Pin To Net: NetName=Net21_17 Pin=21-17
+Added Pin To Net: NetName=Net21_17 Pin=stm32f103c8t6-24
+Added Net: Name=Net21_17
+Added Pin To Net: NetName=Net21_18 Pin=21-18
+Added Pin To Net: NetName=Net21_18 Pin=stm32f103c8t6-23
+Added Net: Name=Net21_18
+Added Pin To Net: NetName=Net21_19 Pin=21-19
+Added Pin To Net: NetName=Net21_19 Pin=stm32f103c8t6-22
+Added Net: Name=Net21_19
+Added Pin To Net: NetName=Net21_20 Pin=21-20
+Added Pin To Net: NetName=Net21_20 Pin=stm32f103c8t6-21
+Added Net: Name=Net21_20
+Added Pin To Net: NetName=NetDS1307_GND Pin=DS1307-GND
+Added Pin To Net: NetName=NetDS1307_GND Pin=OLED-GND
+Added Net: Name=NetDS1307_GND
+Added Class: Name=Sheet1

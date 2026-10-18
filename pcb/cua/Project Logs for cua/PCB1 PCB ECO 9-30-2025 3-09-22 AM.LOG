@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=CB tu NewDesignator=CB t?
+Change Component Designator: OldDesignator=Van tay NewDesignator=Vân tay
+Added Pin To Net: NetName=Net20_1 Pin=esp32c3-14
+Added Pin To Net: NetName=Net20_2 Pin=esp32c3-15
+Added Member To Class: ClassName=Sheet1 Member=Component OLED oled 0.96

@@ -1,0 +1,12 @@
+Added Component: Designator=DS1307(DS1307)
+Added Component: Designator=OLED(oled 0.96)
+Added Pin To Net: NetName=NetDS1307_GND Pin=DS1307-GND
+Added Pin To Net: NetName=NetDS1307_SCL Pin=DS1307-SCL
+Added Pin To Net: NetName=NetDS1307_SDA Pin=DS1307-SDA
+Added Pin To Net: NetName=NetDS1307_VCC Pin=DS1307-VCC
+Added Pin To Net: NetName=NetDS1307_GND Pin=OLED-GND
+Added Pin To Net: NetName=NetDS1307_SCL Pin=OLED-SCL
+Added Pin To Net: NetName=NetDS1307_SDA Pin=OLED-SDA
+Added Pin To Net: NetName=NetDS1307_VCC Pin=OLED-VCC
+Added Member To Class: ClassName=Sheet1 Member=Component DS1307
+Added Member To Class: ClassName=Sheet1 Member=Component OLED oled 0.96

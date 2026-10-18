@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Net20_2 Pin=CB tu-1
+Added Pin To Net: NetName=Netesp32c3_15 Pin=esp32c3-15
+Added Pin To Net: NetName=Netesp32c3_15 Pin=module buzzer-3
+Added Net: Name=Netesp32c3_15
+Added Member To Class: ClassName=Sheet1 Member=Component stm32f103c8t6

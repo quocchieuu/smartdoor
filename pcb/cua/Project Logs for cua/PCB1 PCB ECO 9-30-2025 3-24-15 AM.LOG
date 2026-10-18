@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Net20_2 Pin=DS1307-GND
+Added Pin To Net: NetName=Net20_2 Pin=OLED-GND
+Added Member To Class: ClassName=Sheet1 Member=Component DS1307

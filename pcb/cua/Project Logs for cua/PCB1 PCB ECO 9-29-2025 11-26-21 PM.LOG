@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin stm32f103c8t6-39
+Add Pin To Net: Unknown Pin: Pin stm32f103c8t6-40
+Added Pin To Net: NetName=NetDS1307_DS Pin=DS1307-DS
+Added Net: Name=NetDS1307_DS
+Add Net: Net with name "NetDS1307_SCL" already exists

@@ -1,0 +1,22 @@
+Added Component: Designator=lm2596(lm2596)
+Added Component: Designator=relay(relay)
+Added Pin To Net: NetName=Netlm2596_IN+ Pin=lm2596-IN+
+Added Pin To Net: NetName=Netlm2596_IN+ Pin=stm32f103c8t6-2
+Added Net: Name=Netlm2596_IN+
+Added Pin To Net: NetName=Netlm2596_IN- Pin=lm2596-IN-
+Added Pin To Net: NetName=Netlm2596_IN- Pin=stm32f103c8t6-1
+Added Net: Name=Netlm2596_IN-
+Added Pin To Net: NetName=Netlm2596_OUT+ Pin=lm2596-OUT+
+Added Pin To Net: NetName=Netlm2596_OUT+ Pin=stm32f103c8t6-20
+Added Net: Name=Netlm2596_OUT+
+Added Pin To Net: NetName=Netlm2596_OUT- Pin=lm2596-OUT-
+Added Pin To Net: NetName=Netlm2596_OUT- Pin=stm32f103c8t6-18
+Added Net: Name=Netlm2596_OUT-
+Added Pin To Net: NetName=Netrelay_COM Pin=relay-COM
+Added Pin To Net: NetName=Netrelay_COM Pin=stm32f103c8t6-21
+Added Net: Name=Netrelay_COM
+Added Pin To Net: NetName=Netrelay_NO Pin=relay-NO
+Added Pin To Net: NetName=Netrelay_NO Pin=stm32f103c8t6-24
+Added Net: Name=Netrelay_NO
+Added Member To Class: ClassName=Sheet1 Member=Component lm2596
+Added Member To Class: ClassName=Sheet1 Member=Component relay

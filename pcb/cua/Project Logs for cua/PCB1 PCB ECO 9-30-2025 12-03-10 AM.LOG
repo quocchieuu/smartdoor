@@ -1,0 +1,6 @@
+Added Component: Designator=esp32c3(esp32c3)
+Added Pin To Net: NetName=NetDS1307_VCC Pin=esp32c3-14
+Added Pin To Net: NetName=Netesp32c3_8 Pin=esp32c3-8
+Added Pin To Net: NetName=Netesp32c3_8 Pin=stm32f103c8t6-35
+Added Net: Name=Netesp32c3_8
+Added Member To Class: ClassName=Sheet1 Member=Component esp32c3

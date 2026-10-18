@@ -1,0 +1,6 @@
+Added Component: Designator=OLED(oled 0.96)
+Added Net: Name=NetDS1307_GND
+Added Net: Name=NetDS1307_SCL
+Added Net: Name=NetDS1307_SDA
+Added Net: Name=NetDS1307_VCC
+Added Member To Class: ClassName=Sheet1 Member=Component OLED oled 0.96

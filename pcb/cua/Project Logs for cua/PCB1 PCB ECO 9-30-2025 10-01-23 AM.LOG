@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Net20_20 Pin=CB tu-2
+Removed Pin From Net: NetName=Net20_18 Pin=LED-2
+Removed Pin From Net: NetName=Net20_19 Pin=LED-3
+Removed Pin From Net: NetName=Net20_2 Pin=Van tay-2
+Removed Pin From Net: NetName=Net20_14 Pin=Van tay-3
+Removed Pin From Net: NetName=Net20_15 Pin=Van tay-4
+Added Pin To Net: NetName=Net20_16 Pin=CB tu-2
+Added Pin To Net: NetName=Net20_13 Pin=LED-2
+Added Pin To Net: NetName=Net21_7 Pin=LED-3
+Added Pin To Net: NetName=Net20_14 Pin=Van tay-2
+Added Pin To Net: NetName=Net20_15 Pin=Van tay-3
+Added Pin To Net: NetName=Net20_2 Pin=Van tay-4

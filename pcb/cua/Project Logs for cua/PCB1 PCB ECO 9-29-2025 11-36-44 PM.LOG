@@ -1,0 +1,23 @@
+Added Component: Designator=DS1307(DS1307)
+Added Component: Designator=OLED(oled 0.96)
+Added Component: Designator=stm32f103c8t6(stm32f103c8t6)
+Added Pin To Net: NetName=NetDS1307_BAT Pin=DS1307-BAT
+Added Pin To Net: NetName=NetDS1307_BAT Pin=DS1307-DS
+Added Pin To Net: NetName=NetDS1307_BAT Pin=DS1307-GND
+Added Pin To Net: NetName=NetDS1307_BAT Pin=DS1307-SCL
+Added Pin To Net: NetName=NetDS1307_BAT Pin=DS1307-SDA
+Added Pin To Net: NetName=NetDS1307_BAT Pin=DS1307-VCC
+Added Pin To Net: NetName=NetDS1307_BAT Pin=OLED-GND
+Added Pin To Net: NetName=NetDS1307_BAT Pin=OLED-SCL
+Added Pin To Net: NetName=NetDS1307_BAT Pin=OLED-SDA
+Added Pin To Net: NetName=NetDS1307_BAT Pin=OLED-VCC
+Added Pin To Net: NetName=NetDS1307_BAT Pin=stm32f103c8t6-30
+Added Pin To Net: NetName=NetDS1307_BAT Pin=stm32f103c8t6-39
+Added Pin To Net: NetName=NetDS1307_BAT Pin=stm32f103c8t6-40
+Added Net: Name=NetDS1307_BAT
+Added Pin To Net: NetName=NetDS1307_SQ Pin=DS1307-SQ
+Added Pin To Net: NetName=NetDS1307_SQ Pin=stm32f103c8t6-1
+Added Net: Name=NetDS1307_SQ
+Added Member To Class: ClassName=Sheet1 Member=Component DS1307
+Added Member To Class: ClassName=Sheet1 Member=Component OLED oled 0.96
+Added Member To Class: ClassName=Sheet1 Member=Component stm32f103c8t6
